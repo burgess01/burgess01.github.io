@@ -1,9 +1,16 @@
 ---
-title: 'Contact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+section: contact
+layout: contact.njk
+title: Get in touch
+date: 2022-08-14
+permalink: /contact/index.html
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.description will be used
+  instead.
+subtitle: Contact Subtitle
+eleventyNavigation:
+  key: Contact
+  order: 5
 ---
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
-
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+If you want to contact me for any reason fill out the form below! I would love to hear from you with anything you would like to ask or reach out about.
