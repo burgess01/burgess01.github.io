@@ -60,8 +60,21 @@ eleventyNavigation:
 **B.S Computer Science** *(2020 - 2023)*
 
 * 3.98/4.0 GPA, 4.0/4.0 Major GPA
-* Awards, Societies, and Distinguishments: Distinguished Alden Scholar, Trustee Scholar, Honors College, Lambda Sigma, Alpha Delta Pi - Eta Beta Chapter, Omicron Delta Epsilon Economics Honors Society - Alpha Psi Chapter
-* Leadership and Membership: Co-Founder & Director of Operations - Women in Pop Culture Club, President - Association for Computing Machinery (ACM), Vice President of Operations - Alpha Delta Pi Eta Beta Chapter, Secretary - Lambda Sigma
+
+##### Awards, Societies, and Distinguishments
+
+* Distinguished Alden Scholar
+* Trustee Scholar, Honors College,
+* Lambda Sigma
+* Alpha Delta Pi - Eta Beta Chapter
+* Omicron Delta Epsilon Economics Honors Society - Alpha Psi Chapter
+
+##### Leadership and Membership
+
+* Co-Founder & Director of Operations - Women in Pop Culture Club
+* President - Association for Computing Machinery (ACM)
+* Vice President of Operations - Alpha Delta Pi Eta Beta Chapter
+* Secretary - Lambda Sigma
 
 ### Research
 

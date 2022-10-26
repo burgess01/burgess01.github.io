@@ -14,18 +14,11 @@ Hi! My name is Katherine Burgess. I am a Computer Science and Economics student 
 
 #### My Skills
 
-Python
-
-Java & Springboot
-
-C
-
-Golang
-
-Docker
-
-Git/Github
-
-Technical Writing/ Documentation
-
-Bash
+- Python
+- Java & Springboot
+- C
+- Golang
+- Docker
+- Git/Github
+- Technical Writing/ Documentation
+- Bash
