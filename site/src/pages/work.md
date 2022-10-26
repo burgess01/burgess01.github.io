@@ -67,14 +67,14 @@ eleventyNavigation:
 
 #### Undergraduate Student Researcher
 
-**PhD Astronomy** *(Spring 2022)*
+**Bioinformatics Researcher - Allegheny College Biology Department** *(Spring 2022)*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* Utilized BEAST to perform Beysneian Model Averaging
+* Visualized results using FigTree, creating phylogenetic trees
+* Researched differences over time in various Haemophilus ducreyi strains
 
-#### Undergraduate Summer Researcher
+**Bioinformatics Researcher - Allegheny College Computer Science Department** *(Summer 2021)*
 
-**PhD Astronomy** *(Summer 2021)*
-
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* Assisted  Professor Oliver Bonham-Carter, Ph.D,  supplementing his work on connecting studies through their choice in references
+* Received an institutional grant to conduct research under departmental professor within a 7 week period up to 30 hours weekly
+* Utilized Python library Plotly to provide visualization of data using that is accessible and user friendly to those outside of the field
