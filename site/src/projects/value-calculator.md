@@ -16,6 +16,6 @@ TODO: write the task/problem
 
 TODO: write the solution
 
-### Link to GitHub Repository
+##### Link to GitHub Repository
 
 <https://github.com/burgess01/ValueCalculator>

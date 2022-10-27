@@ -20,6 +20,6 @@ TODO: write task
 
 TODO: write solution
 
-### Link to GitHub Repository
+##### Link to GitHub Repository
 
 <https://github.com/GatorEducator/gatorgrade>
