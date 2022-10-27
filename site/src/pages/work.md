@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: An overview of my work, education, and research experience. Further information can be found on my [resume](Resume_Katherine_Burgess.pdf)
+subtitle: An overview of my work, education, and research experience.
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -8,6 +8,8 @@ eleventyNavigation:
   key: Work
 ---
 ### 👩‍💻 Experience
+
+Further information can be found on my [resume](Resume_Katherine_Burgess.pdf)
 
 #### Acutec Precision Aerospace Inc
 
