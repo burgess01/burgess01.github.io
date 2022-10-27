@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: My work, education, and research experience
+subtitle: An overview of my work, education, and research experience. Further information can be found on my [resume](Resume_Katherine_Burgess.pdf)
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
