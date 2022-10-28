@@ -33,7 +33,7 @@ module.exports = function (eleventyConfig) {
   // Don't process folders with static assets
   eleventyConfig.addPassthroughCopy('./src/logo.png');
   eleventyConfig.addPassthroughCopy('./src/admin');
-  eleventyConfig.addPassthroughCopy('./src/assets/img');
+  eleventyConfig.addPassthroughCopy('./src/assets/logo.ico');
 
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
