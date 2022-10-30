@@ -9,7 +9,8 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience
 
-Further information can be found on my [resume](Resume_Katherine_Burgess.pdf)
+Further information can be found on my Resume: <object data="Resume_Katherine_Burgess.pdf" type="application/pdf">
+    <div>No PDF viewer available</div>
 
 #### Acutec Precision Aerospace Inc
 
