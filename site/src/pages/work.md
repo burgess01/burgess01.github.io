@@ -9,16 +9,6 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience
 
-<html>
-  <head>
-    <title>Resume</title>
-  </head>
-  <body>
-    <h1>More Information</h1>
-    <p>Further information can be found on my <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">resume</a>.</p>
-  </body>
-</html>
-
 #### Acutec Precision Aerospace Inc
 
 **Continuous Improvement Intern** *(Fall 2022 - Current)*
@@ -101,3 +91,5 @@ eleventyNavigation:
 * Assisted  Professor Oliver Bonham-Carter, Ph.D,  supplementing his work on connecting studies through their choice in references
 * Received an institutional grant to conduct research under departmental professor within a 7 week period up to 30 hours weekly
 * Utilized Python library Plotly to provide visualization of data using that is accessible and user friendly to those outside of the field
+
+Further information about my skill set can be found on my Resume page.
