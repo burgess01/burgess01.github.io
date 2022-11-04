@@ -10,11 +10,11 @@ tags:
 
 ### Task
 
-TODO: write the task/problem
+I wanted to write a program that would go through and do calculations and conversions on binary, decimal, and hexadecimal values.
 
 ### Solution
 
-TODO: write the solution
+The program in the github repository was a group project with two others in order to accomplish this. We implemented terminal navigation in order to chose what you want to do with the program, then it will convert your entered information and do the required operation.
 
 ##### Link to GitHub Repository
 

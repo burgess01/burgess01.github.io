@@ -14,11 +14,11 @@ tags:
 
 ### Task
 
-TODO: write task
+I wanted to practice basic testing and benchmarking in several languages, those being Go, C and Python.
 
 ### Solution
 
-TODO: write solution
+The solution was the code in the github repository linked below. I run two files in each language, one that tests for prime numbers and one that selects the smaller out of two values. I then write tests and benchmarks in all three languages in order to test the efficiency and accuracy of these programs.
 
 ##### Link to GitHub Repository
 
