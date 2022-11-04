@@ -22,3 +22,7 @@ Hi! My name is Katherine Burgess. I am a Computer Science and Economics student 
 - Git/Github
 - Technical Writing/ Documentation
 - Bash
+
+#### Contact Me
+
+If you want to contact me for any reason please email me at 20burgessk@gmail.com , I will get back to you as soon as possible!
