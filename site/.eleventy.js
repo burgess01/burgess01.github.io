@@ -31,7 +31,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTransform('htmlmin', minifyHtml);
 
   // Don't process folders with static assets
-  eleventyConfig.addPassthroughCopy('./src/logo.png');
+  eleventyConfig.addPassthroughCopy('./src/favicon.ico');
   eleventyConfig.addPassthroughCopy('./src/admin');
   eleventyConfig.addPassthroughCopy('./src/assets/logo.ico');
 
