@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: An overview of my work, education, and research experience.
+subtitle: An Overview of my Work, Educational, and Research Experience.
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -13,14 +13,14 @@ eleventyNavigation:
 
 **Continuous Improvement Intern** *(Fall 2022 - Current)*
 
-* Worked with SQL Databases, wrote C# code to integreate daily API calls & SQL queries into tables
+* Worked with SQL Databases, wrote C# code to integrate daily API calls & SQL queries into tables
 * Troubleshoot SQL timeouts, massaging SQL and CSV data into excel tables to find root cause
 * Participated in daily standup meetings and other required ceremonies the team held
 
 **Automation Engineer Intern** *(Fall 2022 - Current)*
 
 * Programmed FANUC Robots in order to Autonomize CNC machines, deburr parts, and deduce errors in production
-* Wrote wiring schematics in order to synchronize I/O between machines, robots, and human users
+* Outlined conventions to standardize programming and documentation in the automation department
 * Debugged code of my coworkers and manager, giving solutions to improve performance and reduce redundancy
 
 #### PNC
