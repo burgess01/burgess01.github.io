@@ -5,11 +5,10 @@ metaDescription: This is a sample meta description. If one is not present in you
 date: 2022-01-01T00:00:00.000Z
 summary: A Continuous Integration application to automatically grade a repository.
 tags:
-  - golang
   - python
-  - C
-  - test cases
-  - benchmarking
+  - testing
+  - continuous integration
+  - github action
 ---
 
 ### Task
