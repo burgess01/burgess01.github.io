@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 #### Who Am I?
 
-Hi! My name is Katherine Burgess. I am a Computer Science and Economics student at Allegheny College. My interests include Software Engineering, how to make more efficient and easy to understand programs, as well as databases. I have extensive internship and research experience at Allegheny College, Acutec Aerospace, and PNC.
+Hi! My name is Katherine Burgess. I am a Computer Science and Economics student at Allegheny College. My interests include Software Engineering, how to make more efficient and easy to understand programs, as well as databases. I have extensive internship and research experience at Allegheny College, Acutec Aerospace, and PNC. More professional information about me can be found on my [Linkedin](https://www.linkedin.com/in/katherine-burgess-3869371b6/)
 
 #### My Skills
 
