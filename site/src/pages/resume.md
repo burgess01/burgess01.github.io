@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # Katherine Burgess
 
-Homer City, PA | burgess01@allegheny.edu | 724-762-6222
+Homer City, PA | burgess01@allegheny.edu
 
 ## EDUCATION
 
