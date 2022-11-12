@@ -43,13 +43,11 @@ eleventyNavigation:
 
 **Head Resident Advisor** *(Fall 2022 - Current)*
 
+**Resident Advisor** *(Fall 2021 - Spring 2022)*
+
 * Supervise 36 residential students as well as overseeing 300+ residents and 6+ Resident Advisors, assisting with a variety of issues such as mitigating roommate complaints, mental health concerns, monitoring academic performance, and acclimating to life on campus
 * Cultivate safe residential environment that encourages students to follow student code of conduct in accordance with campus guidelines
 * Establish trustworthy relationships and culture with residents through hall and individual meetings to ensure students are maintaining engagement with campus rules and resources such as counseling center, health center, and other important areas
-
-**Resident Advisor** *(Fall 2021 - Spring 2022)*
-
-* Maintained legacy Internet Explorer for 5 long years
 
 - - -
 
