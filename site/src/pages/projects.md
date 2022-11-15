@@ -11,4 +11,4 @@ eleventyNavigation:
   order: 4
 ---
 
-More examples of my work can be seen on my [GitHub](https://github.com/burgess01)
+More examples of my work can be seen on my [GitHub](https://github.com/burgess01).
