@@ -1,3 +1,7 @@
 # CMPSC 480: Portfolio project reflection
 
-`TODO: Follow guidelines in the README to complete
+In order to build my website I faced a few challenges. The first for me was changing the colors of my website. In order to do this, I had to explore through the scss files to find the exact spot that they were being set. I also had to work with the professor during office hours in order to help me change my titly, my name, as it was set in a hidden location outside of that file. I also ran into image issues, which in order to fix I worked with the professors to learn more about html editing and how the template as a whole was put together. Lastly, I ran into issues linking different sites, such as my Github and my Linkedin. I solved this through talking to my classmate, Bill, who has more knowledge about html than I do.
+
+The audience I built this website for was those reviewing my job applications. This website appeals to them through welcoming colors, as well as multiple pages and links to my professional information. I have a markdown version of my resume attached, as well as a few of the most impressive projects I have worked on. Anything that I thought they would need to know I tried to include on my site.
+
+My design was completely informed and helped by the documents that I created this semester. The markdown version of my resume I used was put directly on my website, and the improved versions of my READMEs helped to inform me which projects were the best to include and which were outdated for me at this point. Also, through the resume assignment a lot of the improvements I made helped to make my work experience and resume pages more succinct and impressive than they used to be.
