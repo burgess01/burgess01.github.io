@@ -18,7 +18,7 @@ Homer City, PA | burgess01@allegheny.edu
 
 #### August 2020 - May 2023
 
-Bachelors of Science in Computer Science        GPA: 3.98/4.00
+Bachelors of Science in Computer Science        GPA: 3.99/4.00
 Minor: Economics
 
 ### Awards, Societies, and Distinguishments
@@ -87,7 +87,7 @@ Minor: Economics
 
 ### Head Resident Advisor -- North Village Residence Hall, Allegheny College
 
-#### Fall2022 - Present
+#### Fall 2022 - Present
 
 ### Resident Advisor – Schultz Residence Hall, Allegheny College
 
