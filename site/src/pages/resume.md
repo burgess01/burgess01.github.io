@@ -14,11 +14,17 @@ Homer City, PA | burgess01@allegheny.edu
 
 ## EDUCATION
 
+### Carnegie Mellon University, Pittsburgh, PA
+
+#### August 2020 - December 2024 (Expected)
+
+Masters of Information Systems Management
+
 ### Allegheny College, Meadville, PA
 
 #### August 2020 - May 2023
 
-Bachelors of Science in Computer Science        GPA: 3.99/4.00
+Bachelor of Science in Computer Science        GPA: 3.99/4.00
 Minor: Economics
 
 ### Awards, Societies, and Distinguishments
